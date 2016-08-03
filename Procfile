@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar  target/spring-api-example-0.0.1-SNAPSHOT.jar
