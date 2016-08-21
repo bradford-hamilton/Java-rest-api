@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Created by bradford on 8/3/16.
  */
-
+// REST API to /contacts
 @RestController
 @RequestMapping("/contacts")
 public class ContactRestController {
